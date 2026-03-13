@@ -1,0 +1,36 @@
+﻿CREATE TABLE Students (
+    StudentID INT IDENTITY(1,1) PRIMARY KEY,
+    RegNo VARCHAR(20) UNIQUE NOT NULL,
+    FullName VARCHAR(100) NOT NULL,
+    Gender VARCHAR(10),
+    Course VARCHAR(100) NOT NULL,
+    Department VARCHAR(100),
+    Semester VARCHAR(20),
+    AcademicYear VARCHAR(20)
+);
+
+CREATE TABLE Units (
+    UnitID INT IDENTITY(1,1) PRIMARY KEY,
+    UnitCode VARCHAR(20) UNIQUE NOT NULL,
+    UnitName VARCHAR(100) NOT NULL,
+    CreditHours INT NOT NULL
+);
+
+CREATE TABLE Results (
+    ResultID INT IDENTITY(1,1) PRIMARY KEY,
+    StudentID INT NOT NULL,
+    UnitID INT NOT NULL,
+    CAT DECIMAL(5,2) NOT NULL,
+    Exam DECIMAL(5,2) NOT NULL,
+    Grade VARCHAR(2),
+    Remarks VARCHAR(20),
+    FOREIGN KEY (StudentID) REFERENCES Students(StudentID),
+    FOREIGN KEY (UnitID) REFERENCES Units(UnitID)
+);
+
+CREATE TABLE Users (
+    UserID INT IDENTITY(1,1) PRIMARY KEY,
+    Username VARCHAR(50) UNIQUE NOT NULL,
+    PasswordHash VARCHAR(255) NOT NULL,
+    Role VARCHAR(20) NOT NULL
+);

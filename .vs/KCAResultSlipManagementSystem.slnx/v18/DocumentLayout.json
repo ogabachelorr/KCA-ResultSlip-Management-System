@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\resultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|solutionrelative:resultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\resultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|solutionrelative:resultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|c:\\users\\admin\\source\\repos\\kcaresultslipmanagementsystem\\resultslipform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|solutionrelative:resultslipform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\resultslipform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|solutionrelative:resultslipform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\resultsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|solutionrelative:resultsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\resultslipform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|solutionrelative:resultslipform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\unitsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|solutionrelative:unitsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\SQLQuery6.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery6.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\unitsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|solutionrelative:unitsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|solutionrelative:studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|solutionrelative:studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|solutionrelative:dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|solutionrelative:dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\SQLQuery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\resultsform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|solutionrelative:resultsform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\dataaccess\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|solutionrelative:dataaccess\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\helpers\\gradehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6AD24C-1EED-43CD-BFA0-1C2B58862DE0}|KCAResultSlipManagementSystem.csproj|solutionrelative:helpers\\gradehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResultsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\ResultsForm.cs",
+              "RelativeDocumentMoniker": "ResultsForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\ResultsForm.cs",
+              "RelativeToolTip": "ResultsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T12:35:22.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultSlipForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\ResultSlipForm.cs",
+              "RelativeDocumentMoniker": "ResultSlipForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\ResultSlipForm.cs [Design]",
+              "RelativeToolTip": "ResultSlipForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T12:42:49.67Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultSlipForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\ResultSlipForm.cs",
+              "RelativeDocumentMoniker": "ResultSlipForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\ResultSlipForm.cs",
+              "RelativeToolTip": "ResultSlipForm.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T12:53:35.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResultsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\ResultsForm.cs",
+              "RelativeDocumentMoniker": "ResultsForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\ResultsForm.cs [Design]",
+              "RelativeToolTip": "ResultsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T12:23:51.897Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\ResultsForm.Designer.cs",
+              "RelativeDocumentMoniker": "ResultsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\ResultsForm.Designer.cs",
+              "RelativeToolTip": "ResultsForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T17:40:53.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResultSlipForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\ResultSlipForm.Designer.cs",
+              "RelativeDocumentMoniker": "ResultSlipForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\ResultSlipForm.Designer.cs",
+              "RelativeToolTip": "ResultSlipForm.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T17:40:06.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\UnitsForm.cs",
+              "RelativeDocumentMoniker": "UnitsForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\UnitsForm.cs [Design]",
+              "RelativeToolTip": "UnitsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T14:51:54.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\UnitsForm.cs",
+              "RelativeDocumentMoniker": "UnitsForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\UnitsForm.cs",
+              "RelativeToolTip": "UnitsForm.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T14:59:02.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SQLQuery6.sql",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\SQLQuery6.sql",
+              "RelativeDocumentMoniker": "SQLQuery6.sql",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\SQLQuery6.sql",
+              "RelativeToolTip": "SQLQuery6.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-09T17:25:46.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\StudentsForm.cs",
+              "RelativeDocumentMoniker": "StudentsForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\StudentsForm.cs",
+              "RelativeToolTip": "StudentsForm.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAgwF4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:54:54.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\StudentsForm.cs",
+              "RelativeDocumentMoniker": "StudentsForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\StudentsForm.cs [Design]",
+              "RelativeToolTip": "StudentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:53:26.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "DashboardForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T15:20:29.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\LoginForm.Designer.cs",
+              "RelativeToolTip": "LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T16:11:54.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T15:05:49.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "DashboardForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\DashboardForm.cs",
+              "RelativeToolTip": "DashboardForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T16:42:54.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T16:12:15.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SQLQuery3.sql",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\SQLQuery3.sql",
+              "RelativeDocumentMoniker": "SQLQuery3.sql",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\SQLQuery3.sql",
+              "RelativeToolTip": "SQLQuery3.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-09T16:25:44.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:31:58.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResultsForm.resx",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\ResultsForm.resx",
+              "RelativeDocumentMoniker": "ResultsForm.resx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\ResultsForm.resx",
+              "RelativeToolTip": "ResultsForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-09T13:08:55.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GradeHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\Helpers\\GradeHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\GradeHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\Helpers\\GradeHelper.cs",
+              "RelativeToolTip": "Helpers\\GradeHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:26:48.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\DataAccess\\DbHelper.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\DataAccess\\DbHelper.cs",
+              "RelativeToolTip": "DataAccess\\DbHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:21:32.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SQLQuery2.sql",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "SQLQuery2.sql",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\SQLQuery2.sql",
+              "RelativeToolTip": "SQLQuery2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-09T09:11:26.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-09T09:13:47.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KCAResultSlipManagementSystem\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-09T08:58:33.007Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

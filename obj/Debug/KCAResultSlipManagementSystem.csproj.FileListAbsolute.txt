@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\KCAResultSlipManagementSystem\obj\Debug\KCAResultSlipManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\KCAResultSlipManagementSystem\obj\Debug\KCAResultSlipManagementSystem.DashboardForm.resources
+C:\Users\Admin\source\repos\KCAResultSlipManagementSystem\obj\Debug\KCAResultSlipManagementSystem.LoginForm.resources
+C:\Users\Admin\source\repos\KCAResultSlipManagementSystem\obj\Debug\KCAResultSlipManagementSystem.Properties.Resources.resources
+C:\Users\Admin\source\repos\KCAResultSlipManagementSystem\obj\Debug\KCAResultSlipManagementSystem.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\KCAResultSlipManagementSystem\obj\Debug\KCAResultSlipManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\KCAResultSlipManagementSystem\bin\Debug\KCAResultSlipManagementSystem.exe.config
+C:\Users\Admin\source\repos\KCAResultSlipManagementSystem\bin\Debug\KCAResultSlipManagementSystem.exe
+C:\Users\Admin\source\repos\KCAResultSlipManagementSystem\bin\Debug\KCAResultSlipManagementSystem.pdb
+C:\Users\Admin\source\repos\KCAResultSlipManagementSystem\obj\Debug\KCAResultSlipManagementSystem.exe
+C:\Users\Admin\source\repos\KCAResultSlipManagementSystem\obj\Debug\KCAResultSlipManagementSystem.pdb
+C:\Users\Admin\source\repos\KCAResultSlipManagementSystem\obj\Debug\KCAResultSlipManagementSystem.StudentsForm.resources
+C:\Users\Admin\source\repos\KCAResultSlipManagementSystem\obj\Debug\KCAResultSlipManagementSystem.ResultsForm.resources
+C:\Users\Admin\source\repos\KCAResultSlipManagementSystem\obj\Debug\KCAResultSlipManagementSystem.ResultSlipForm.resources
+C:\Users\Admin\source\repos\KCAResultSlipManagementSystem\obj\Debug\KCAResultSlipManagementSystem.UnitsForm.resources
